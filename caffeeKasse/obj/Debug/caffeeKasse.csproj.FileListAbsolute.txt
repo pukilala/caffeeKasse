@@ -1,0 +1,5 @@
+/home/mono/Projects/caffeeKasse/caffeeKasse/bin/caffeeKasse.dll
+/home/mono/Projects/caffeeKasse/caffeeKasse/bin/caffeeKasse.pdb
+/home/mono/Projects/caffeeKasse/caffeeKasse/obj/Debug/caffeeKasse.csproj.CoreCompileInputs.cache
+/home/mono/Projects/caffeeKasse/caffeeKasse/obj/Debug/caffeeKasse.dll
+/home/mono/Projects/caffeeKasse/caffeeKasse/obj/Debug/caffeeKasse.pdb
